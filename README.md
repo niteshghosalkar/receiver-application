@@ -10,3 +10,4 @@
 * Git Clone https://github.com/niteshghosalkar/sender-application.git
 * Configure Maven
 * Set environment varaible FILE_PATH from where who have to read file.
+* Run task before sender application
